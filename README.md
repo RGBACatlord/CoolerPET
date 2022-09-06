@@ -54,12 +54,15 @@ Your particle editor's layout might be slightly screwed on first launch - fix it
 # FAQ
 
 **Will this trigger VAC?**
+
 *It's very unlikely as it uses the source tool framework as intended,
 but I'd still recommend you run it insecure just to be super safe.
 At the end of the day, you run this at your own risk!*
 
 **Can you add X feature / fix X bug?**
+
 *Probably. Go ahead and start an issue and I'll take a look.*
 
 **Is Valve ok with this?**
+
 *I asked Valve directly and I'm still waiting for a reply, so I can only assume they don't care!*
