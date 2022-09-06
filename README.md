@@ -43,3 +43,23 @@ Features are as follows:
   * Includes a slider for effect Z offset
   * ```cpet_mdl_test_offset_(x/y/z)``` int (default 0): Particle system offset
   * ```cpet_mdl_realign_on_change``` 0/1 (default 1): Reset camera on class/anim change
+
+# Installation
+
+Drag the "Team Fortress 2" folder into your steamapps/common and replace all.
+CoolerPET will now appear in your tools list, along with the vanilla particle editor.
+
+Your particle editor's layout might be slightly screwed on first launch - fix it with View->Default Layout
+
+# FAQ
+
+**Will this trigger VAC?**
+*It's very unlikely as it uses the source tool framework as intended,
+but I'd still recommend you run it insecure just to be super safe.
+At the end of the day, you run this at your own risk!*
+
+**Can you add X feature / fix X bug?**
+*Probably. Go ahead and start an issue and I'll take a look.*
+
+**Is Valve ok with this?**
+*I asked Valve directly and I'm still waiting for a reply, so I can only assume they don't care!*
