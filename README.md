@@ -1,5 +1,6 @@
 # CoolerPET
 This is a custom build of the Source Engine particle editor, tailored to creation of Team Fortress 2 unusual effects.
+*UPDATE:* Unfortunately, recent updates to tf2 have changed something somewhere which has broken CPET. It was a fun ride gamers.
 
 # New Features
 Some of these features are unique to CPET while others are simply ported from new engine branches.
